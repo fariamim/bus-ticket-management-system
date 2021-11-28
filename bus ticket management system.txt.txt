@@ -425,7 +425,7 @@ getch();//holds the screen
 while(a<=2);
 if (a>2)
 {
-printf("\nyou entered the wrong username and password for four times!!!");
+printf("\n wrong username and password for four times!!!");
  
 getch();
  
